@@ -17,14 +17,14 @@ The chatbot follows a structured approach to classify user inputs and generate r
 ## Sentiment Analysis
 The chatbot classifies emotions based on user inputs and presents insights through sentiment analysis.
 
-![Sentiment Analysis Bar Chart](images/sentiment analysis.jpg)
+![Sentiment Analysis Bar Chart](images/sentiment_analysis.jpg)
 
 ## Model Responses
 The chatbot is capable of generating different types of responses:
 
 - **Simple Model Response**
 
-  ![Simple Model Response](images/simple response.jpg)
+  ![Simple Model Response](images/simple_response.jpg)
 
 - **CoT Model Response**
 
